@@ -55,19 +55,22 @@
 
 * 1 foco
 * 2 Conmutadores
-* 1 voquilla
+* 1 Boquilla
+
+
+**3.2 DIAGRMA DEL CIRCUTO**
 
 
 
 
-**3.2 DIAGRMA DEL circuito**
 
+**3.3 DIAGRMA DEL CIRCUITO EN UN SIMULADOR**
 
+![image](https://user-images.githubusercontent.com/116772918/213185449-47680027-29bf-4b1a-8a39-62ac093dac72.png)
 
+![image](https://user-images.githubusercontent.com/116772918/213186140-e8f8c292-c87d-40dd-bcaf-3b02a06dd7ff.png)
 
-**3.3 DIAGRMA DEL CIRCUITO EN UN SIMULADOR **
-
-
+![image](https://user-images.githubusercontent.com/116772918/213186583-69c21bb8-aef2-4692-88fa-9c11beb454ba.png)
 
 
 **3.4 PROYECTO REALIZADO DEL CIRCUITO ESCALERA** 
