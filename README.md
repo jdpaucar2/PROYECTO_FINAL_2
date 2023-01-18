@@ -60,7 +60,7 @@
 
 **3.2 DIAGRMA DEL CIRCUTO**
 
-
+![image](https://user-images.githubusercontent.com/116772918/213277249-7b570789-9311-41df-bfc3-5d529bc36e34.png)
 
 
 
