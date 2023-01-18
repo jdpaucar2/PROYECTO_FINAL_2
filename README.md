@@ -66,11 +66,15 @@
 
 **3.3 DIAGRMA DEL CIRCUITO EN UN SIMULADOR**
 
-![image](https://user-images.githubusercontent.com/116772918/213185449-47680027-29bf-4b1a-8a39-62ac093dac72.png)
+![image](https://user-images.githubusercontent.com/116772918/213194598-8e440739-f1c8-4702-8b67-fc276e4b4a63.png)
 
-![image](https://user-images.githubusercontent.com/116772918/213186140-e8f8c292-c87d-40dd-bcaf-3b02a06dd7ff.png)
+![image](https://user-images.githubusercontent.com/116772918/213195129-6f846dbb-7583-4793-801c-40be23178619.png)
 
-![image](https://user-images.githubusercontent.com/116772918/213186583-69c21bb8-aef2-4692-88fa-9c11beb454ba.png)
+![image](https://user-images.githubusercontent.com/116772918/213195629-25f58851-0fae-4956-845a-f3493ada7ce9.png)
+
+![image](https://user-images.githubusercontent.com/116772918/213195922-2a8788b4-d2ec-45cf-81b2-bfb902f9d13a.png)
+
+
 
 
 **3.4 PROYECTO REALIZADO DEL CIRCUITO ESCALERA** 
