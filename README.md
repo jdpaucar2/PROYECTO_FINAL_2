@@ -42,10 +42,11 @@
 La corriente alterna (CA) es un tipo de corriente eléctrica, en la que la dirección del flujo de electrones va y viene a intervalos regulares o en ciclos. La corriente que fluye por las líneas eléctricas y la electricidad disponible normalmente en las casas procedente de los enchufes de la pared es corriente alterna.
 
 La FASE.
-Hace Referencia Al Conductor Activo, Es Decir El Conductor Que Transporta La Corriente Eléctrica Normalmente Desde La Red Hasta Un Enchufe O Interruptor De Nuestra Casa U Oficina.
+hace referencia al conductor activo, es decir el conductor que transporta la corriente eléctrica normalmente desde la red hasta un enchufe o interruptor de nuestra casa u oficina.
+
 
 El NEUTRO.
-Es Un Conductor Con Potencial 0 O Diferencia De Potencial 0. Su Función Es Precisamente Crear Un Desequilibrio, Una Diferencia De Potencial Que Permita La Existencia De Corriente Eléctrica Por El Conductor De Fase. Sin El Neutro No Puede Producirse La Corriente Eléctrica A No Ser Que La Diferencia De Potencial Se Genere Utilizando Directamente La Tierra.
+es un conductor con potencial 0 o diferencia de potencial 0. su función es precisamente crear un desequilibrio, una diferencia de potencial que permita la existencia de corriente eléctrica por el conductor de fase. sin el neutro no puede producirse la corriente eléctrica a no ser que la diferencia de potencial se genere utilizando directamente la tierra.
 
 La TIERRA.
 o cable de toma a tierra, es un conductor con una función de protección, el objetivo es conducir posibles sobre tensiones a tierra. no es un cable por el que circule corriente eléctrica a no ser que exista alguna derivación de corriente o problema en la instalación eléctrica, por ejemplo, en una instalación doméstica, si cualquier aparato eléctrico tuviera alguna derivación de corriente, mediante el cable a tierra se protege a los usuarios de descargas eléctricas enviando a tierra la corriente por este conductor. en este tipo de situaciones tocar el cable de tierra es los mismo que tocar el conductor de fase del aparato eléctrico, por lo que podríamos recibir una fuerte descarga eléctrica. lo ideal, al igual que con el cable neutro, es asegurarse circulación cero antes de cualquier tipo de manipulación.
