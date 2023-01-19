@@ -41,6 +41,15 @@
 
 La corriente alterna (CA) es un tipo de corriente eléctrica, en la que la dirección del flujo de electrones va y viene a intervalos regulares o en ciclos. La corriente que fluye por las líneas eléctricas y la electricidad disponible normalmente en las casas procedente de los enchufes de la pared es corriente alterna.
 
+La FASE.
+Hace Referencia Al Conductor Activo, Es Decir El Conductor Que Transporta La Corriente Eléctrica Normalmente Desde La Red Hasta Un Enchufe O Interruptor De Nuestra Casa U Oficina.
+
+El NEUTRO.
+Es Un Conductor Con Potencial 0 O Diferencia De Potencial 0. Su Función Es Precisamente Crear Un Desequilibrio, Una Diferencia De Potencial Que Permita La Existencia De Corriente Eléctrica Por El Conductor De Fase. Sin El Neutro No Puede Producirse La Corriente Eléctrica A No Ser Que La Diferencia De Potencial Se Genere Utilizando Directamente La Tierra.
+
+La TIERRA.
+o cable de toma a tierra, es un conductor con una función de protección, el objetivo es conducir posibles sobre tensiones a tierra. no es un cable por el que circule corriente eléctrica a no ser que exista alguna derivación de corriente o problema en la instalación eléctrica, por ejemplo, en una instalación doméstica, si cualquier aparato eléctrico tuviera alguna derivación de corriente, mediante el cable a tierra se protege a los usuarios de descargas eléctricas enviando a tierra la corriente por este conductor. en este tipo de situaciones tocar el cable de tierra es los mismo que tocar el conductor de fase del aparato eléctrico, por lo que podríamos recibir una fuerte descarga eléctrica. lo ideal, al igual que con el cable neutro, es asegurarse circulación cero antes de cualquier tipo de manipulación.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/116772918/213282786-5c84a51e-a9c5-42fa-8913-923f97748612.png)
