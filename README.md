@@ -38,7 +38,9 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. MARCO TEORICO**
+
 La corriente alterna (CA) es un tipo de corriente eléctrica, en la que la dirección del flujo de electrones va y viene a intervalos regulares o en ciclos. La corriente que fluye por las líneas eléctricas y la electricidad disponible normalmente en las casas procedente de los enchufes de la pared es corriente alterna.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/116772918/213282786-5c84a51e-a9c5-42fa-8913-923f97748612.png)
