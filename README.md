@@ -114,7 +114,7 @@ https://youtu.be/dEz3agsdvjk
 
 **5. CONCLUSIONES**
 
-
+Un circuito de 3 vías nos permite controlar una luz de techo (u otro accesorio eléctrico) desde dos ubicaciones separadas. Los escenarios comunes serían interruptores de 3 vías ubicados en la parte superior e inferior de una escalera, o tener interruptores de 3 vías junto a las puertas en una habitación con dos puntos de entrada o pasillos y habitaciones más grandes, tener un solo interruptor puede ser un inconveniente, por lo que podría ser útil controlar la luz desde dos ubicaciones, y esta es la función del circuito de 3 vías .
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
