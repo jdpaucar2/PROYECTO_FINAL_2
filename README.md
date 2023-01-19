@@ -66,6 +66,8 @@ o cable de toma a tierra, es un conductor con una función de protección, el ob
 
 Cuando la resistencia de una bombilla tradicional se enciende, los electrones circulan por el sistema empujados por la llegada de nuevos electrones, resultando en una fricción y por tanto generan calor. Como “la energía ni se crea ni se destruye, solo se transforma” ese calor es una pérdida de energía. Resultando en que una bombilla tradicional necesita 60W para dar una luz igual a la de un LED de 10W.
 
+![image](https://user-images.githubusercontent.com/116835707/213514877-d69ea243-6a7e-4b0b-b201-389e036a2785.png)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
