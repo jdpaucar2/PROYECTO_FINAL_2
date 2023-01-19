@@ -24,20 +24,20 @@
 
 **1.1  OBJETIVO GENERAL**
 
-* Armar un circuito escalera para conocer como se comporta el flujo de coriente  en el circuito relaizado
+* Comprender como es que el conmutador puede redirigir el sentido de las corrientes y formar un circutico en el cual se logre controlar el mismo foco con dos conmutadores.
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
-* Analizar el funcionamineto de cada componente en nuestro circuito.
+* Investigar el funcionamineto del commutador  e implemnetarlo en un circuito.
 
-* Aprender el funcionamiento de un circuito escalera.
+* Armar el circuito con ayuda de un simulador y tambien contar con el circuito de forma fisica  para tener un mejor perspertiva  de sus compomente y funcionamineto.
+
+*
 
  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. MARCO TEORICO**
-
-
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,6 +46,7 @@
 
 ![image](https://user-images.githubusercontent.com/116772918/213295538-cfa1ec48-eacf-4bdf-ac6f-1a2c87fb0efa.png)
 
+![image](https://user-images.githubusercontent.com/116772918/213327558-89e75d80-dde3-4975-acc2-54b79e63b162.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
