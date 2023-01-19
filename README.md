@@ -125,6 +125,8 @@ Cuando la resistencia de una bombilla tradicional se enciende, los electrones ci
 
 https://youtu.be/dEz3agsdvjk
 
+https://youtu.be/0WHtZ5Acu6o
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **5. CONCLUSIONES**
