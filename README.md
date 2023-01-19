@@ -52,6 +52,9 @@
 
 ![image](https://user-images.githubusercontent.com/116772918/213333025-437f1361-02a7-4f9b-9dac-d5665b7dfaf7.png)
 
+Cuando la resistencia de una bombilla tradicional se enciende, los electrones circulan por el sistema empujados por la llegada de nuevos electrones, resultando en una fricción y por tanto generan calor. Como “la energía ni se crea ni se destruye, solo se transforma” ese calor es una pérdida de energía. Resultando en que una bombilla tradicional necesita 60W para dar una luz igual a la de un LED de 10W.
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
