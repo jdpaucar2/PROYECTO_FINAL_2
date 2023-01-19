@@ -32,7 +32,7 @@
 
 * Armar el circuito con ayuda de un simulador y tambien contar con el circuito de forma fisica  para tener un mejor perspertiva  de sus compomente y funcionamineto.
 
-*
+
 
  
 
@@ -46,7 +46,12 @@
 
 ![image](https://user-images.githubusercontent.com/116772918/213295538-cfa1ec48-eacf-4bdf-ac6f-1a2c87fb0efa.png)
 
+
 ![image](https://user-images.githubusercontent.com/116772918/213327558-89e75d80-dde3-4975-acc2-54b79e63b162.png)
+
+
+![image](https://user-images.githubusercontent.com/116772918/213333025-437f1361-02a7-4f9b-9dac-d5665b7dfaf7.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
