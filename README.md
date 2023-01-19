@@ -99,7 +99,7 @@ Cuando la resistencia de una bombilla tradicional se enciende, los electrones ci
 
 ![9f5aac6e-4b3c-4e63-87e7-1d9f1277f199](https://user-images.githubusercontent.com/116772918/213202383-b752e232-aeb1-4747-b79d-089c78cbbf07.jpg)
 
-https://youtu.be/dEz3agsdvjk
+
 
 
 
@@ -108,7 +108,7 @@ https://youtu.be/dEz3agsdvjk
 
 **4. VIDEO**
 
-
+https://youtu.be/dEz3agsdvjk
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
