@@ -51,6 +51,8 @@ es un conductor con potencial 0 o diferencia de potencial 0. su función es prec
 La TIERRA.
 o cable de toma a tierra, es un conductor con una función de protección, el objetivo es conducir posibles sobre tensiones a tierra. no es un cable por el que circule corriente eléctrica a no ser que exista alguna derivación de corriente o problema en la instalación eléctrica, por ejemplo, en una instalación doméstica, si cualquier aparato eléctrico tuviera alguna derivación de corriente, mediante el cable a tierra se protege a los usuarios de descargas eléctricas enviando a tierra la corriente por este conductor. en este tipo de situaciones tocar el cable de tierra es los mismo que tocar el conductor de fase del aparato eléctrico, por lo que podríamos recibir una fuerte descarga eléctrica. lo ideal, al igual que con el cable neutro, es asegurarse circulación cero antes de cualquier tipo de manipulación.
 
+![image](https://user-images.githubusercontent.com/116835707/213514877-d69ea243-6a7e-4b0b-b201-389e036a2785.png)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/116772918/213282786-5c84a51e-a9c5-42fa-8913-923f97748612.png)
@@ -66,7 +68,6 @@ o cable de toma a tierra, es un conductor con una función de protección, el ob
 
 Cuando la resistencia de una bombilla tradicional se enciende, los electrones circulan por el sistema empujados por la llegada de nuevos electrones, resultando en una fricción y por tanto generan calor. Como “la energía ni se crea ni se destruye, solo se transforma” ese calor es una pérdida de energía. Resultando en que una bombilla tradicional necesita 60W para dar una luz igual a la de un LED de 10W.
 
-![image](https://user-images.githubusercontent.com/116835707/213514877-d69ea243-6a7e-4b0b-b201-389e036a2785.png)
 
 
 
